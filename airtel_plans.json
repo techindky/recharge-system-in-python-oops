@@ -1,0 +1,16 @@
+[
+    {
+        "price": 29,
+        "talktime": 26,
+        "sms": 0,
+        "data": 0,
+        "validity": 28
+    },
+    {
+        "price": 54,
+        "talktime": 50,
+        "sms": 10,
+        "data": 0,
+        "validity": 28
+    }
+]
